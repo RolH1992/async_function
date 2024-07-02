@@ -1,6 +1,6 @@
 # main.py
 import asyncio
-from cli import menu  # Corrected import statement
+from cli import menu  
 
 async def main():
     await menu()
